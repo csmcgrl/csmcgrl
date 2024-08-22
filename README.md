@@ -8,7 +8,7 @@ I've been learning to code for about 2 years. I decided to switch my careers and
 
 *   🌍  I'm based in Moscow, Zelenograd
 *   ✉️  You can contact me at [dahapost@gmail.com](mailto:dahapost@gmail.com) or at [Telegram](https://t.me/cranberry_d)
-*   📄  [CV](https://cv.hexlet.io/ru/resumes/2837)
+*   📄   [CV](https://cv.hexlet.io/ru/resumes/2837)
 *   🧠  My education: Bachelor's degree in Linguistics, Web Design course by Maxim Soldatkin, Frontend Development course by Hexlet
 *   🚀  I'm learning React
 *   ⚡  My zodiac sign is libra, my HD type is manifestor
