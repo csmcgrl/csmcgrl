@@ -7,7 +7,7 @@ Junior Frontend Developer
 I've been learning to code for about 2 years. I decided to switch my careers and started my new path with web design and UX/UI, then I realized that I need profound knowledge in HTML and CSS. Thus I came to JS and web development and here I am!
 
 *   🌍  I'm based in Moscow, Zelenograd
-*   ✉️  You can contact me at [dahapost@gmail.com](mailto:dahapost@gmail.com)
+*   ✉️  You can contact me at [dahapost@gmail.com](mailto:dahapost@gmail.com) or at [Telegram](https://t.me/cranberry_d)
 *   🧠  My education: Bachelor's degree in Linguistics, Web Design course by Maxim Soldatkin, Frontend Development course by Hexlet
 *   🚀  I'm learning React
 *   ⚡  My zodiac sign is libra, my HD type is manifestor
