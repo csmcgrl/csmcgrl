@@ -11,7 +11,7 @@ I've been learning to code for about 2 years. I decided to switch my careers and
 *   📄  [My CV](https://cv.hexlet.io/ru/resumes/2837)
 *   🧠  My education: Bachelor's degree in Linguistics, Web Design course by Maxim Soldatkin, Frontend Development course by Hexlet
 *   🚀  I'm learning React
-*   ⚡  My zodiac sign is libra, my HD type is manifestor
+*   ⚡  My zodiac sign is libra, my HD type is manifestor, my personality type is Consul (ESFJ-A)
   
 ### Skills
 <p align="left">
